@@ -50,6 +50,10 @@ Furthermore, the backend API was seamlessly accessed using Axios, enhancing the 
   - [x] Automatic generation of detailed AI prompts.
   - [x] Display AI-generated responses on the screen.
 
+<p align="center">
+   <img src="https://github.com/KRochaS/NextLevelWeek13/blob/master/.github/screenshot-01.png" width="986" >
+   <img src="https://github.com/KRochaS/NextLevelWeek13/blob/master/.github/upload.ai.gif" width="986" >
+</p>
 
 
 
